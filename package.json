@@ -14,7 +14,8 @@
     "@fontsource/lora": "^5.0.17",
     "@mui/icons-material": "^5.16.6",
     "@mui/material": "^5.16.6",
-    "firebase": "^10.12.5",
+    
+    "firebase": "^9.0.0",
     "next": "14.2.5",
     "react": "^18",
     "react-dom": "^18",
